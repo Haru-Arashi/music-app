@@ -1,5 +1,7 @@
 # music-app
 
+API地址 https://github.com/Haru-Arashi/music-api
+
 ## Project setup
 ```
 yarn install
